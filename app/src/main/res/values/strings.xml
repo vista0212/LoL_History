@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoL History</string>
+
+    <string name="input_summoner_name">Please input your Summoner name.</string>
+    <string name="not_exist_summoner">Summoner name does not exist.</string>
+    <string name="history_error">Cannot find matches history.</string>
+
+    <string name="solo_rank">Solo Rank</string>
+    <string name="flex_rank">Flex Rank</string>
+    <string name="normal_game">Normal Game</string>
+
+    <string name="win">Win</string>
+    <string name="defeat">Defeat</string>
+
+    <string name="enter">Enter</string>
+</resources>
